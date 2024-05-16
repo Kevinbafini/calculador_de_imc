@@ -1,13 +1,12 @@
-<h1 align="center">E-commerce Primary Shop</h1>
+<h1 align="center">Calculadora de IMC</h1>
 
 <p align="center">Esse projeto foi desenvolvido especialmente para o aprendizado e especificação das tecnologias abaixo.</p>
 
 ## Recursos:
 
-- Visualização detalhada do produto com imagens de alta definição.
-- Seleção de tamanhos de camisetas com uma interface de usuário interativa.
-- Carrinho de compras com atualização dinâmica de itens.
-- Mensagem de aviso personalizada para seleção de tamanho antes de adicionar ao carrinho.
+- Design Responsivo: O layout é completamente responsivo, adaptando-se bem a diferentes tamanhos de tela e dispositivos.
+- Calcula o IMC real da pessoa, através da altura e peso.
+- Informações adicionais depedendo do IMC exibido.
 
 ## 🛠 Tecnologias
 
@@ -24,7 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h3 align="center"> Demonstração aplicada no Computador</h3>
 
 <div align="center">
-<img src="images/telaPc.png" alt="Texto Alternativo">
+<img src="image/telaPc.png" alt="Texto Alternativo">
 </div>
 
 <br>
@@ -32,7 +31,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h3 align="center"> Demonstração aplicada no Smartphone</h3>
 
 <div align="center">
-<img src="images/telaSmartphone.png" alt="Texto Alternativo">
+<img src="image/telaSmartphone.png" alt="Texto Alternativo">
 </div>
 
 ## Instalação
@@ -42,7 +41,7 @@ Para executar este projeto localmente, siga estes passos:
 - Clone o repositório para sua máquina local:
 
 ```bash
-https://github.com/Kevinbafini/primary_shop.git
+https://github.com/Kevinbafini/calculador_de_imc.git
 ```
 
 Isso criará uma cópia local do repositório em sua máquina.
